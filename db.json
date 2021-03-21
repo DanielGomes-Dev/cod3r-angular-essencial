@@ -1,19 +1,34 @@
 {
-    "products":[
-        {
-            "id":1,
-            "name":"caneta",
-            "price":5.89
-        },
-        {
-            "id":2,
-            "name":"caneta2",
-            "price":5.89
-        },
-        {
-            "id":3,
-            "name":"canet3",
-            "price":5.89
-        }
-    ]
+  "products": [
+    {
+      "id": 2,
+      "name": "caneta2",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "canet3-Editado",
+      "price": 5.89
+    },
+    {
+      "name": "Cadeira",
+      "price": 12,
+      "id": 4
+    },
+    {
+      "name": "asdasdas",
+      "price": "123",
+      "id": 8
+    },
+    {
+      "name": "Nove Produto",
+      "price": "123",
+      "id": 9
+    },
+    {
+      "name": "test",
+      "price": "122",
+      "id": 11
+    }
+  ]
 }

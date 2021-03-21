@@ -1,7 +1,8 @@
 .sidenav{
-  background-color: #551a8b;
+  background-color: #c2185b;
   display: flex;
-  width: 180px;
+  min-width: 15vw;
+
 }
 
 .sidenav a{
@@ -10,4 +11,12 @@
 
 .sidenav i{
   padding-right: 10px;
+}
+
+.content {
+  background-color: #eee;
+  color: #333;
+  padding: 16px;
+  min-width: 85vw;
+  max-height: 77vh;
 }
